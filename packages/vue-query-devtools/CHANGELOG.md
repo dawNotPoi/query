@@ -1,5 +1,9 @@
 # @tanstack/vue-query-devtools
 
+## 6.2.5
+
+No changes in this release.
+
 ## 6.2.4
 
 ## 6.2.3
